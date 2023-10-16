@@ -1,0 +1,7 @@
+site_name: my-test-application
+
+nav:
+  - Home: README.md
+
+plugins:
+  - techdocs-core
